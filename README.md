@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Nagendra's github stats](https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagi1998.nagi1998)
+
+
 <!--
 **nagi1998/nagi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
