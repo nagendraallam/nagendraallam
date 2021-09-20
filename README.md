@@ -8,10 +8,10 @@
 
 <p align="center">
   
-![Nagendra's github stats](https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&hide_border=true&theme=dark)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagi1998&layout=compact)](https://github.com/nagi1998/github-readme-stats)
-<br />
+| <a href="https://github.com/nagi19998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a> | <a href="https://github.com/nagi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagi1998&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagi1998.nagi1998)
   
   </p>
