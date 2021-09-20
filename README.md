@@ -8,6 +8,8 @@
 
 ![Nagendra's github stats](https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&hide_border=true)
 <br />
+  [![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagi1998)](https://github.com/nagi1998/github-readme-stats)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagi1998.nagi1998)
 
 
