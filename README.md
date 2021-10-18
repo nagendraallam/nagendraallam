@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Soy <a href="https://nagi1998.github.io">Nagendra Allam</a> 👋
 
 - 🔭 I’m currently working on building a Drone. 
 - 🌱 I’m currently learning Robotics. 
@@ -8,10 +8,7 @@
 
 <p align="center">
   
-| <a href="https://github.com/nagi19998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagi1998&layout=compact)](https://github.com/nagi1998/github-readme-stats)
-|
-| ------------- | ------------- |
-  
+<a href="https://github.com/nagi19998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a>
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagi1998.nagi1998)
   
