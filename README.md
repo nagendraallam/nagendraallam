@@ -9,7 +9,6 @@
   
 <a href="https://github.com/nagi19998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendraallam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a>
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagendraallam.nagendraallam)
   
   </p>
 
