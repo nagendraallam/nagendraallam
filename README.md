@@ -4,4 +4,4 @@
 - 💬 Ask me about Programming, ML, AI, Web/App Development.
 - 📫 How to reach me: hello@nagendraallam.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraallam)](https://github.com/nagendraallam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraallam&layout=compact)](https://github.com/nagendraallam/)
