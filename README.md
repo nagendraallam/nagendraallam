@@ -1,5 +1,7 @@
 ### Hi there, I'm <a href="https://nagi1998.github.io">Nagendra Allam</a> 👋
 
-- 🔭 I’m currently working in <a href="https://snappi.tech">SnappiTech</a>. 
+- 🔭 I’m currently working in <a href="https://modd.io">Modd.io</a>. 
 - 💬 Ask me about Programming, ML, AI, Web/App Development.
 - 📫 How to reach me: anp.3973@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraallam)](https://github.com/nagendraallam/github-readme-stats)
