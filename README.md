@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Nagendra!
 
-🚀 **Full Stack Engineer | Builder | Tech Enthusiast**
+🚀 **Full Stack Engineer | Dev | Tech Enthusiast**
 
 ---
 
