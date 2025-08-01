@@ -25,14 +25,6 @@
 
 ---
 
-#### 📊 **GitHub Stats**
-
-![Nagendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendraallam&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraallam&layout=compact&theme=gruvbox)
-
----
-
 ### 🌎 **Find Me Around**
 - 🏗️ [Portfolio](https://nagendraallam.com/)
 - 💻 [GitHub](https://github.com/nagendraallam)
