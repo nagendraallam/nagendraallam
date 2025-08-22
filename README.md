@@ -26,7 +26,7 @@
 ---
 
 ### 🌎 **Find Me Around**
-- 🏗️ [Portfolio](https://nagendraallam.com/)
+- 🏗️ [Portfolio](https://nagendra.dev/)
 - 💻 [GitHub](https://github.com/nagendraallam)
 - 🔗 [LinkedIn](https://linkedin.com/in/nagendraallam)
 
