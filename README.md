@@ -31,8 +31,6 @@ class NagendraAllam:
         return "nagendraallam@icloud.com"
 ```
 
----
-
 ## Tech Arsenal
 
 <div align="center">
