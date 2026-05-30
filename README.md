@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Nagendra%20Allam&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer.%20Builder.%20Obsessive%20Problem%20Solver.&descAlignY=58&descAlign=50&descColor=adbac7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04021a,40:0a0530,70:150a4a,100:1e0a5e&height=200&section=header&text=Nagendra%20Allam&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer.%20Builder.%20Obsessive%20Problem%20Solver.&descAlignY=58&descAlign=50&descColor=adbac7" width="100%"/>
 
 <div align="center">
 
@@ -65,50 +65,7 @@ class NagendraAllam:
 
 </div>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagendraallam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&ring_color=539bf5&icon_color=539bf5&title_color=cdd9e5&text_color=adbac7&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraallam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=cdd9e5&text_color=adbac7&bg_color=0d1117" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=nagendraallam&theme=github-dark-blue&hide_border=true&ring=539bf5&fire=e05d44&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&background=0d1117" width="520"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nagendraallam&theme=react-dark&hide_border=true&bg_color=0d1117&color=539bf5&line=539bf5&point=cdd9e5&area=true&area_color=539bf5"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nagendraallam&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nagendraallam&color=539bf5&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0a5e,40:150a4a,70:0a0530,100:04021a&height=120&section=footer" width="100%"/>
 
 </div>
